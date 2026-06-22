@@ -49,4 +49,4 @@ Five internship rotations on the SmartHQ platform and Cooking Team:
 
 ---
 
-*Open to Summer 2027 new-grad roles in software, cloud, and backend engineering.*
+*Open to Summer 2027 internships in software, cloud, and backend engineering.*
