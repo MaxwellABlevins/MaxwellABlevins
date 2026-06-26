@@ -39,8 +39,9 @@ Five internship rotations on the SmartHQ platform and Cooking Team:
 
 ## 📚 Currently
 
+- Grinding Leetcode
 - Working towards a GCP Certification
-- Diving deep into deploying and maintaining my projects through GCP
+- Diving deep into my latest projects (Fantasy Gens and Loom)
 
 ## 📫 Reach me
 
